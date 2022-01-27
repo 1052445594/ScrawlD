@@ -23,14 +23,14 @@
 
    "0x000000002bb43c83ece652d161ad0fa862129a2c": {  <br />
        "ARTHM": {  <br />
-           "mythril": [  350, 372, ], <br />
-           "osiris": [ 105, ] <br />
+           "mythril": [  350, 372 ], <br />
+           "osiris": [ 105 ] <br />
        }, <br />
        "LE": [ "slither" ], <br />
        "RENT": { <br />
            "mythril": [ "AccountRegistry.proposeProper(bytes)", "Vote.rescueToken(address)" ], <br />
-           "slither": [ "Vote.vote1(address,address)", ] <br />
-       }, <br />
+           "slither": [ "Vote.vote1(address,address)" ] <br />
+       } <br />
    } <br />
 
    1. Above snippet is taken from file vulnerabilities.json
