@@ -21,29 +21,29 @@
 
 ### vulnerabilites.json Format Example:
 
-   "0x000000002bb43c83ece652d161ad0fa862129a2c": {
-       "ARTHM": {
-           "mythril": [
-               350,
-               372,
-           ],
-           "osiris": [
-               105,
-           ]
-       },
-       "LE": [
-           "slither"
-       ],
-       "RENT": {
-           "mythril": [
-               "AccountRegistry.proposeProper(bytes)",
-               "Vote.rescueToken(address)"
-           ],
-           "slither": [
-               "Vote.vote1(address,address)",
-           ]
-       },
-   }
+   "0x000000002bb43c83ece652d161ad0fa862129a2c": {  <br />
+       "ARTHM": {  <br />
+           "mythril": [  <br />
+               350, <br />
+               372, <br />
+           ], <br />
+           "osiris": [ <br />
+               105, <br />
+           ] <br />
+       }, <br />
+       "LE": [ <br />
+           "slither" <br />
+       ], <br />
+       "RENT": { <br />
+           "mythril": [ <br />
+               "AccountRegistry.proposeProper(bytes)", <br />
+               "Vote.rescueToken(address)" <br />
+           ], <br />
+           "slither": [ <br />
+               "Vote.vote1(address,address)", <br />
+           ] <br />
+       }, <br />
+   } <br />
 
    1. Above snippet is taken from file vulnerabilities.json
    2. It shows an object in vulnerabilities.json file
