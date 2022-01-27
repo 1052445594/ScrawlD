@@ -13,9 +13,9 @@
    | DOS | Denial of Service |
    | LE | Locked Ether |
    | RENT | Reentrancy |
-   | TimeM | Block values as a proxy for time |
-   | TimeO | Transaction Order Dependence |
-   | UE | Unchecked Call Return Value |
+   | TimeM | Time Manipulation (Block values as a proxy for time) |
+   | TimeO | Timestamp Ordering (Transaction Order Dependence) |
+   | UE | Unhandled Exceptions (Unchecked Call Return Value) |
 
 
 
