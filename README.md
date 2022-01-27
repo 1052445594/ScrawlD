@@ -23,25 +23,13 @@
 
    "0x000000002bb43c83ece652d161ad0fa862129a2c": {  <br />
        "ARTHM": {  <br />
-           "mythril": [  <br />
-               350, <br />
-               372, <br />
-           ], <br />
-           "osiris": [ <br />
-               105, <br />
-           ] <br />
+           "mythril": [  350, 372, ], <br />
+           "osiris": [ 105, ] <br />
        }, <br />
-       "LE": [ <br />
-           "slither" <br />
-       ], <br />
+       "LE": [ "slither" ], <br />
        "RENT": { <br />
-           "mythril": [ <br />
-               "AccountRegistry.proposeProper(bytes)", <br />
-               "Vote.rescueToken(address)" <br />
-           ], <br />
-           "slither": [ <br />
-               "Vote.vote1(address,address)", <br />
-           ] <br />
+           "mythril": [ "AccountRegistry.proposeProper(bytes)", "Vote.rescueToken(address)" ], <br />
+           "slither": [ "Vote.vote1(address,address)", ] <br />
        }, <br />
    } <br />
 
