@@ -33,7 +33,7 @@
 
 ### How to read vulnerabilites.json?
 
-![vuln-example](https://github.com/sujeetc/ScrawlD-Deleteme/blob/main/images/example.png?raw=true)
+![vuln-example](https://github.com/sujeetc/ScrawlD/blob/main/images/example.png?raw=true)
 
    1. Above snippet is taken from file vulnerabilities.json
    2. It shows an object in the vulnerabilities.json file
