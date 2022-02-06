@@ -1,3 +1,6 @@
+#This script parse vulnerabilities.json and produce bug report for 
+#each smart contract as per majority of tools (>= ceil(n/2))
+
 import json
 import tools_info
 import sys
